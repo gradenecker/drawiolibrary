@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="3">
   <diagram name="Seite-1" id="sstNzI84rs2Q5gRcfi9F">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -74,6 +74,117 @@
             <mxGeometry x="960" y="580" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7ZLol1cpz5ZlgMWTXOit" name="AN_ProjectExecution">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PmPO_MrJQ1OBFToUxRDO" name="AN_Sales">
+    <mxGraphModel dx="5736" dy="2984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dTk26U2boHe63dfVUpC7-1" value="AN resources in BBAN Sales" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="4" y="9" width="1616" height="1150" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="Mridu Mohanty" position="National Manager Sales (AN)" location="Office 2" email="me@example.com" placeholders="1" id="dTk26U2boHe63dfVUpC7-2">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+            <mxGeometry x="753" y="291" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dTk26U2boHe63dfVUpC7-3" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d2b75b;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dTk26U2boHe63dfVUpC7-1" source="dTk26U2boHe63dfVUpC7-2" target="dTk26U2boHe63dfVUpC7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="Sathish G" position="Team Leader Sales (Feed)" location="Office 2" email="me@example.com" placeholders="1" id="dTk26U2boHe63dfVUpC7-4">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+            <mxGeometry x="546" y="771" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dTk26U2boHe63dfVUpC7-5" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d2b75b;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="dTk26U2boHe63dfVUpC7-1" source="dTk26U2boHe63dfVUpC7-2" target="dTk26U2boHe63dfVUpC7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="Amritesh Thakur" position="Senior Engineer Technology (Feed)" location="Office 2" email="me@example.com" placeholders="1" id="dTk26U2boHe63dfVUpC7-6">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+            <mxGeometry x="766" y="621" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dTk26U2boHe63dfVUpC7-7" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d2b75b;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dTk26U2boHe63dfVUpC7-1" source="dTk26U2boHe63dfVUpC7-2" target="dTk26U2boHe63dfVUpC7-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="Paresh Mishra" position="Deputy Manager Feed Technology" location="Office 2" email="me@example.com" placeholders="1" id="dTk26U2boHe63dfVUpC7-8">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+            <mxGeometry x="956" y="621" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dTk26U2boHe63dfVUpC7-9" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d2b75b;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dTk26U2boHe63dfVUpC7-1" source="dTk26U2boHe63dfVUpC7-2" target="dTk26U2boHe63dfVUpC7-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="Piyush Chawla" position="Engineer Technology (Feed)" location="Office 2" email="me@example.com" placeholders="1" id="dTk26U2boHe63dfVUpC7-10">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+            <mxGeometry x="1146" y="621" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dTk26U2boHe63dfVUpC7-11" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d2b75b;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dTk26U2boHe63dfVUpC7-1" source="dTk26U2boHe63dfVUpC7-2" target="dTk26U2boHe63dfVUpC7-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="Kumar Sudhanshu" position="Team Leader Sales" location="Office 2" email="me@example.com" placeholders="1" id="dTk26U2boHe63dfVUpC7-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+            <mxGeometry x="356" y="771" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dTk26U2boHe63dfVUpC7-13" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d2b75b;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dTk26U2boHe63dfVUpC7-1" source="dTk26U2boHe63dfVUpC7-2" target="dTk26U2boHe63dfVUpC7-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="847" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="Chandrakant Sharma" position="Senior Engineer Sales" location="Office 2" email="me@example.com" placeholders="1" id="dTk26U2boHe63dfVUpC7-14">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+            <mxGeometry x="166" y="771" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dTk26U2boHe63dfVUpC7-15" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d2b75b;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dTk26U2boHe63dfVUpC7-1" source="dTk26U2boHe63dfVUpC7-2" target="dTk26U2boHe63dfVUpC7-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="857" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="Vacant" position="Aqua Technology" location="Office 2" email="me@example.com" placeholders="1" id="dTk26U2boHe63dfVUpC7-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+            <mxGeometry x="1336" y="621" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dTk26U2boHe63dfVUpC7-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#d2b75b;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="dTk26U2boHe63dfVUpC7-1" source="dTk26U2boHe63dfVUpC7-18" target="dTk26U2boHe63dfVUpC7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="Divya Purohit" position="Head of Grains and Food" location="Office 2" email="me@example.com" placeholders="1" id="dTk26U2boHe63dfVUpC7-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+            <mxGeometry x="753" y="151" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dTk26U2boHe63dfVUpC7-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#d2b75b;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;dashed=1;endFill=0;" edge="1" parent="dTk26U2boHe63dfVUpC7-1" source="dTk26U2boHe63dfVUpC7-20" target="dTk26U2boHe63dfVUpC7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="Bichara Al Khawam (BBET)" position="Technology &amp; SQ Dev&#39;t Manager" location="Office 2" email="me@example.com" placeholders="1" id="dTk26U2boHe63dfVUpC7-20">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+            <mxGeometry x="836" y="791" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dTk26U2boHe63dfVUpC7-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;AN resources in BBAN (Sales)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dTk26U2boHe63dfVUpC7-1">
+          <mxGeometry x="316" y="171" width="374" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
