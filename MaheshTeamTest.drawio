@@ -570,7 +570,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WylVQPMAOHCvxT47bkh7" name="BrownFoodsSetup">
-    <mxGraphModel dx="2049" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2694" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -734,7 +734,7 @@
         <mxCell id="ArVgUNUqGyzj7srRvq-n-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Project Organization - Brown Foods, Ethiopia&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Category: C&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="510" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="SUPPORT BUZ" position="Project Manager" location="Office 2" email="me@example.com" placeholders="1" id="ArVgUNUqGyzj7srRvq-n-2">
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="HN PE SUPPORT BUZ" position="Project Manager" location="Office 2" email="me@example.com" placeholders="1" id="ArVgUNUqGyzj7srRvq-n-2">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;strokeColor=#d6b656;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=#fff2cc;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;fillStyle=solid;pointerEvents=1;labelBackgroundColor=default;resizable=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
             <mxGeometry x="250" y="140" width="180" height="80" as="geometry" />
           </mxCell>
