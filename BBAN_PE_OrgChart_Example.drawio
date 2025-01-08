@@ -1,9 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="3_LgFnzOPMGLqBnzPg8g">
-    <mxGraphModel dx="2074" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="2221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;%name%&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;i&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" name="Allison Meyer" position="Project Manager" placeholders="1" id="5CjB5-Vkw5eR_ZG53d0y-1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;strokeColor=#00998f;align=left;verticalAlign=middle;spacingLeft=52;spacing=2;fontFamily=Helvetica;fontSize=13;fontColor=#FFFFFF;fontStyle=1;fillColor=#009a90;clipPath=inset(10.94% 10.94% 10.94% 10.94% round 50%);aspect=fixed;" vertex="1" parent="1">
+            <mxGeometry x="740" y="-300" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
