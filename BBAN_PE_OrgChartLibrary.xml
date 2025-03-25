@@ -33,5 +33,10 @@
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font style=&amp;quot;color: rgb(255, 0, 0); font-size: 20px;&amp;quot;&amp;gt;MUST!&amp;lt;/font&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;rotation=-15;strokeWidth=6;strokeColor=#FF0000;fillColor=#FF0000;opacity=50;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"5.684341886080802e-14\" y=\"-1.1368683772161603e-13\" width=\"72.75\" height=\"37\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 72.75,
     "h": 37
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font style=&amp;quot;font-size: 20px; color: rgb(0, 0, 0);&amp;quot;&amp;gt;MUST!&amp;lt;/font&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;rotation=-15;strokeWidth=6;strokeColor=#FF0000;fillColor=#FF0000;opacity=50;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"72.75\" height=\"37\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 72.75,
+    "h": 37
   }
 ]</mxlibrary>
